@@ -13,7 +13,7 @@ Pygments==1.4
 SQLAlchemy==0.7.1
 South==0.7.3
 amqplib==0.6.1
-anyjson==0.3
+anyjson==0.3.3
 =======
 numpy>=1.12
 scipy
@@ -29,5 +29,5 @@ Pygments==1.4
 SQLAlchemy==0.7.1
 South==0.7.3
 amqplib==0.6.1
-anyjson==0.3
+anyjson==0.3.3
 >>>>>>> 6adb31ca1c40b71f467218b51b2dbf32e248d707
